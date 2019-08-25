@@ -6,6 +6,8 @@
     "react-scripts": "*"
   },
   "dependencies": {
+    "mongoose": "^5.6.11",
+    "node-fetch": "^2.6.0",
     "prop-types": "*",
     "react": "*",
     "react-dom": "*"
